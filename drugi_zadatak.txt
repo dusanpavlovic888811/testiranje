@@ -1,0 +1,38 @@
+loop:
+l
+s
+g loop
+l
+s
+g loop
+l
+s
+g loop
+l
+s
+g loop
+l
+s
+g loop
+l
+s
+g loop
+l
+s
+g loop
+l
+s
+g loop
+l
+s
+g loop
+l
+s
+g loop
+l
+s
+g loop
+.
+.
+.
+//na ovaj nacin pre ili kasnije mora da se sudare!
